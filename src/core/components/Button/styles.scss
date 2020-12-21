@@ -1,0 +1,23 @@
+.button {
+  background: #1890ff;
+  border-radius: 4px;
+  margin: 0;
+  padding: 8px 18px 8px 18px;
+  border: transparent;
+  cursor: pointer;
+}
+
+.text-button {
+  margin: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: #ffffff;
+}
